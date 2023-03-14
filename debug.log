@@ -1,0 +1,35 @@
+- 11:12:38.047 INFO: --------------------------------------------------------
+- 11:12:38.047 INFO: Started application
+- 11:12:38.047 INFO: Logging to: C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\debug.log
+- 11:12:38.047 INFO: Log level = DEBUG4
+- 11:12:38.047 INFO: Starting Mongoose 3.9c web server
+- 11:12:38.047 INFO: WWW directory: C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\www
+- 11:12:38.047 INFO: Index files: index.html,index.php
+- 11:12:38.047 INFO: CGI interpreter: C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\php\php-cgi.exe
+- 11:12:38.047 INFO: CGI pattern: **.php$
+- 11:12:38.047 INFO: Hide files patterns: 
+- 11:12:38.063 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\PAUYKA~1\AppData\Local\Temp\
+- 11:12:38.063 INFO: CGI environment variables set: TMP=C:\WINDOWS\Temp,TEMP=C:\WINDOWS\Temp,TMPDIR=C:\WINDOWS\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 11:12:38.063 INFO: Web server url: http://127.0.0.1:4123/
+- 11:12:38.063 INFO: remote_debugging_port = 60274
+- 11:12:38.063 DEBUG: Command line string for the browser process: "C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\debug.log" --remote-debugging-port=60274
+- 11:12:38.110 DEBUG: App::OnContextInitialized()
+- 11:12:38.110 DEBUG: Window max width/height = 1840/992
+- 11:12:38.125 DEBUG: GetBrowserWindow(): not found, hwnd = 263720
+- 11:12:38.125 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 11:12:38.125 DEBUG: BrowserWindow::CreateBrowserControl()
+- 11:12:38.125 DEBUG: StoreBrowserWindow(): hwnd = 263720
+- 11:12:38.000 DEBUG: Command line string for the gpu-process process: "C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x13c2 --gpu-driver-vendor=NVIDIA --gpu-driver-version=31.0.15.1694 --gpu-driver-date=7-21-2022 --lang=en-US --log-file="C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\debug.log" --service-request-channel-token=F6357030C77417E71481005CBA05E73B --mojo-platform-channel-handle=1848 /prefetch:2
+- 11:12:38.156 DEBUG: ClientHandler::OnAfterCreated()
+- 11:12:38.156 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 11:12:38.172 DEBUG: OnLoadingStateChange: loading=1, url=
+- 11:12:38.000 DEBUG: Command line string for the renderer process: "C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=288B4A1C3064B95AC084F8CEB3A538E3 --lang=en-US --lang=en-US --log-file="C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=288B4A1C3064B95AC084F8CEB3A538E3 --renderer-client-id=3 --mojo-platform-channel-handle=2448 /prefetch:1
+- 11:12:38.031 DEBUG: OnBrowserCreated()
+- 11:12:38.266 WARNING: spawn_process: CreateProcess(C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\php\php-cgi.exe "C:\Users\Pauykasia\Music\phpdesktop-chrome-57.0-rc-php-7.1.3\PHP-Desktop---NO-WEB\www\index.php"): 2
+- 11:12:38.266 INFO: GET 500 /
+[0314/111238.438:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 11:12:38.360 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4123/
+- 11:12:53.656 DEBUG: OnBeforeClose() hwnd=1115642
+- 11:12:53.656 DEBUG: RemoveBrowserWindow(): hwnd = 1115642
+- 11:12:53.656 DEBUG: GetBrowserWindow(): not found, hwnd = 1115642
+- 11:12:53.656 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
